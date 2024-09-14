@@ -34,7 +34,7 @@ Pharmacists can check the prescription list, process them efficiently, and updat
 Patient Access:
 Patients can log in to the platform to view their prescriptions, ensuring they have up-to-date information about their medications.
 
-# How eRx stands out
+# How eRx Innova stands out
 Personalised Video Calling:
 Unlike other e-prescription apps which focus solely on medicine prescribing and deliveries, eRx Innova integrates virtual video calling as and when required for patients in urgency or emergency condition.
 
